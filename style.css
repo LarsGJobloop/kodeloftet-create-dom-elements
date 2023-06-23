@@ -1,0 +1,9 @@
+.product-card {
+  background-color: cornflowerblue;
+}
+
+.product-card > h3 {
+  color: crimson;
+}
+
+main > section > ul > li{}
